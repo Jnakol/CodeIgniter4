@@ -331,7 +331,7 @@ links to be displayed. For example, if the set of links to be displayed is somet
     result set, you can use the following approach: The first page number is always 1, and `getPageCount()`_ can be used to
     retrieve the last page number.
 
-getCurrentPageNumber()
+getCurrentPage()
 ----------------------
 
 This method returns the page number of the current page.
